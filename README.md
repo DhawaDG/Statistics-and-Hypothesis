@@ -21,7 +21,7 @@ This section of my portfolio is a deep dive into the world of statistics and hyp
 ---
 #### Hands-on Projects
 
-| SN | EDA Projects |
+| SN | Statistics & Hypothesis Testing Projects |
 |:---:|:---|
 | 1 | **[Sampling Bias and Mean Reversion in Football Analytics](https://github.com/DhawaDG/Sampling_Bias_and_Mean_Reversion_in_Football_Analytics)** |
 | 2 | **[Z-Test vs T-Test - A Practical Guide with NHANCES BMI Data Analysis](https://github.com/DhawaDG/Z-Test-vs-T-Test-A-Practical-Guide-with-NHANCES-BMI-Data-Analysis)** |
