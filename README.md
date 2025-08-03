@@ -2,6 +2,8 @@
 
 This section of my portfolio is a deep dive into the world of statistics and hypothesis testing. It showcases my ability to apply a wide range of statistical methods to analyze data, validate assumptions, and draw meaningful, data-driven conclusions. From exploring data distributions to implementing hypothesis tests, these projects demonstrate a rigorous approach to quantitative analysis.
 
+---
+
 #### Topics Covered
 
 - **Exploring Binary and Categorical Data:** Techniques for summarizing and visualizing categorical variables.
@@ -31,16 +33,18 @@ This section of my portfolio is a deep dive into the world of statistics and hyp
 | 6 | **[Amazon Product Return Analysis Using Exponential Distribution](https://github.com/DhawaDG/Amazon-Product-Return-Analysis-Using-Exponential-Distribution)** |
 | 7 | **[E-commerce Churn Rate Analysis Using Weibull Distributions](https://github.com/DhawaDG/E-commrce-Churn-Rate-analysis-using-Weibull-Distributions)** |
 
+---
 
 #### Handwritten Notes PDF
 
 A collection of my detailed handwritten notes and summaries on these topics is available in PDF format.  
 [View Statistics & Hypothesis Testing Notes](#)
 
+---
+
 #### Book References
 
 Key resources and books that guided my learning journey:
 
 - *Practical Statistics for Data Scientists* by Peter Bruce, Andrew Bruce, and Peter Gedeck
-- *Think Stats* by Allen B. Downey
-- *Naked Statistics* by Charles Wheelan
+
