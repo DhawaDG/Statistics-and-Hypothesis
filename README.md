@@ -27,8 +27,8 @@ This section of my portfolio is a deep dive into the world of statistics and hyp
 |:---:|:---|
 | 1 | **[Sampling Bias and Mean Reversion in Football Analytics](https://github.com/DhawaDG/Sampling_Bias_and_Mean_Reversion_in_Football_Analytics)** |
 | 2 | **[Z-Test vs T-Test - A Practical Guide with NHANCES BMI Data Analysis](https://github.com/DhawaDG/Z-Test-vs-T-Test-A-Practical-Guide-with-NHANCES-BMI-Data-Analysis)** |
-| 3 | **[Hospital Patient Outcome Analysis Using z-test and t-test](https://github.com/DhawaDG/Hospital-Patient-Outcome-Analysis-Using-z-test-and-t-test)** |
-| 4 | **[Hospital Patient Outcome Analysis Using z-test and t-test](https://github.com/DhawaDG/Hospital-Patient-Outcome-Analysis-Using-z-test-and-t-test)** |
+| 3 | **[Sampling-Distributions-and-Confidence-Intervals-CLT-vs-Bootstrapping](https://github.com/DhawaDG/Hospital-Patient-Outcome-Analysis-Using-z-test-and-t-test)** |
+| 4 | **[Hospital Patient Outcome Analysis Using z-test and t-test](https://github.com/DhawaDG/Sampling-Distributions-and-Confidence-Intervals-CLT-vs-Bootstrapping)** |
 | 5 | **[E-commerce Flash Sale and Spike Order Analysis Using Binomial and Poisson Distribution](https://github.com/DhawaDG/E-commerce-Flash-Sale-and-Spike-Order-Using-Binomial-and-Poisson-Distribution)** |
 | 6 | **[Amazon Product Return Analysis Using Exponential Distribution](https://github.com/DhawaDG/Amazon-Product-Return-Analysis-Using-Exponential-Distribution)** |
 | 7 | **[E-commerce Churn Rate Analysis Using Weibull Distributions](https://github.com/DhawaDG/E-commrce-Churn-Rate-analysis-using-Weibull-Distributions)** |
