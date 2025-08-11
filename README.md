@@ -48,3 +48,5 @@ Key resources and books that guided my learning journey:
 
 - *Practical Statistics for Data Scientists* by Peter Bruce, Andrew Bruce, and Peter Gedeck
 
+---
+## ⬅️⬅️ [Back to Main Profile](https://github.com/DhawaDG)
