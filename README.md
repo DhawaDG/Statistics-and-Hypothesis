@@ -38,7 +38,9 @@ This section of my portfolio is a deep dive into the world of statistics and hyp
 #### Handwritten Notes PDF
 
 A collection of my detailed handwritten notes and summaries on these topics is available in PDF format.  
-[View Statistics & Hypothesis Testing Notes](#)
+
+> **Note on Viewing PDFs on GitHub:**  
+> If you encounter an "***Unable to render code block***" or preview error when opening a **📄 View PDF on GitHub** link, please reload the page or use the **⬇️ Download PDF** link right below it.
 
 ---
 
