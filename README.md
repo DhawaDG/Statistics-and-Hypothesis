@@ -42,6 +42,19 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 > **Note on Viewing PDFs on GitHub:**  
 > If you encounter an "***Unable to render code block***" or preview error when opening a **📄 View PDF on GitHub** link, please reload the page or use the **⬇️ Download PDF** link right below it.
 
+### Correlation :
+
+| Topics Covered | Page |
+| :--- | :--- |
+| Correlation Introduction & Types: Definition, types based on direction (Positive, Negative, No Correlation), and types based on strength using Pearson's correlation coefficient ($r$) interpretation table | `page 1` |
+| Pearson's Correlation: Definition, mathematical formula, manual calculation example using height and weight, and Python implementation using pandas (`df.corr`), NumPy (`np.corrcoef`), and SciPy (`stats.pearsonr` with p-values) | `page 2–5` |
+| Spearman's Rank Correlation: Definition of monotonic relationships, formula ($r_s$), when to use, manual step-by-step calculation example with product price vs. customer satisfaction, and Python implementation (`stats.spearmanr`) | `page 6–8` |
+| Kendall's Tau Correlation: Pairwise comparisons (concordant vs. discordant pairs), manual calculation example with employee experience vs. performance, Python implementation (`stats.kendalltau`), and interpretation | `page 9–10` |
+| Comprehensive Comparison Summary: Pearson vs. Spearman vs. Kendall's Tau comparison table covering feature breakdown, data types, normality assumptions, outlier sensitivity, tied ranks, and performance on large datasets | `page 11` |
+
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_correlations_watermark.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_correlations_watermark.pdf)
+
 ### Data and Sampling Distributions:
 | Topics Covered | Page |
 | :--- | :--- |
