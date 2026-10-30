@@ -169,7 +169,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 - [📄 View PDF on GitHub]()
 - [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/)
 
-### Student $t$-Distributions:
+### Student $t$-Distributions & t- Test:
 | Topics Covered | Page |
 | :--- | :--- |
 | Student $t$-Distributions: Definition, adjusting for small sample uncertainty, family of curves ($df = n - 1$), and confidence interval formula | `page 1` |
