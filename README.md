@@ -101,7 +101,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_2_selectionbias_sampling_distributions_watermark.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_2_selectionbias_sampling_distributions_watermark.pdf)
 
-### Central Limit Theorem (CLT)
+### Central Limit Theorem (CLT):
 | Topics Covered | Page |
 | :--- | :--- |
 | Central Limit Theorem (CLT) & Sampling Distribution: Definition, what it means, and why it's useful (works on non-normal data, kicks in around $n \ge 30$, explains polls) | `page 1` |
@@ -115,7 +115,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_3_CLT_watermark.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_3_CLT_watermark.pdf)
 
-### Bootstrapping
+### Bootstrapping :
 | Topics Covered | Page |
 | :--- | :--- |
 | What is Bootstrapping? Definition, core idea, step-by-step workflow, and key terminology (Bootstrap Sample, Resampling) | `page 1` |
@@ -129,7 +129,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_4_bootstrapping_watermark.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_4_bootstrapping_watermark.pdf)
 
-### Confidence Interval (CI)
+### Confidence Interval (CI) :
 | Topics Covered | Page |
 | :--- | :--- |
 | What is a Confidence Interval (CI)? Definition, key components (Point Estimate, Margin of Error, Confidence Level), and basic intuition | `page 1` |
@@ -148,7 +148,8 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_5_CI_watermark.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_5_CI_watermark.pdf)
 
-### Normal Distribution & Z-Test
+### Normal Distribution & Z-Test :
+
 | Topics Covered | Page |
 | :--- | :--- |
 | Normal Distribution: Definition, properties, symmetry, and $Z$-score mathematical definition and interpretation | `page 1–3` |
