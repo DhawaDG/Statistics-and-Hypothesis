@@ -70,7 +70,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Python Implementation: Sample Mean vs. Population Mean and Comparison of np.random.sample vs. np.random.choice | `page 28` |
 
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_1_population_sample_watermark.pdf)
-- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_1_population_sample_watermark.pdf)
 
 ### Sampling Distribution of a Statistic:
 | Topics Covered | Page |
@@ -85,8 +85,8 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Python Code & Explanation: Simulating Rookies vs. Sophomore Year Performance to Demonstrate Regression to the Mean | `page 11–12` |
 | Sampling Distribution of a Statistic: Definition, Central Limit Theorem (CLT), Standard Error, and Key Takeaways (Cookie Baking Analogy) | `page 13` |
 
-- [📄 View PDF on GitHub]()
-- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/)
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_2_selectionbias_sampling_distributions_watermark.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_2_selectionbias_sampling_distributions_watermark.pdf)
 
 ### Central Limit Theorem (CLT)
 | Topics Covered | Page |
@@ -99,8 +99,8 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Pure CLT Math: Independent and identically distributed (i.i.d.) random variables, population mean/variance formulas, and a discrete uniform distribution example ($n=4$) | `page 6` |
 | Connecting Mathematical CLT and the Empirical Rule ($n \ge 30$): The relationship between theoretical asymptotic normality and practical simulation rules of thumb | `page 7` |
 
-- [📄 View PDF on GitHub]()
-- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/)
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_3_CLT_watermark.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_3_CLT_watermark.pdf)
 
 ### Bootstrapping
 | Topics Covered | Page |
@@ -113,8 +113,8 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Resampling Mechanics: With replacement vs. Without replacement (Analogies, why it matters in bootstrapping, and real-world examples) | `page 8–9` |
 | Summary Guide: When to Choose Bootstrapping vs. Permutation Tests | `page 10` |
 
-- [📄 View PDF on GitHub]()
-- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/)
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_4_bootstrapping_watermark.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_4_bootstrapping_watermark.pdf)
 
 ### Confidence Interval (CI)
 | Topics Covered | Page |
@@ -132,8 +132,8 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Comparison Table: NumPy's `percentile()` vs. Pandas' `quantile()` | `page 10` |
 | Python Code & Walkthrough: Calculating Point Estimates, Margin of Error, standard normal 95% CIs vs. Scipy Bootstrap Median CIs for skewed income data | `page 10–11` |
 
-- [📄 View PDF on GitHub]()
-- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/)
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_5_CI_watermark.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_5_CI_watermark.pdf)
 
 ### Normal Distribution & Z-Test
 | Topics Covered | Page |
@@ -154,8 +154,8 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | The Motive of Hypothesis Testing: Understanding the role of the judge/weather forecaster analogy (testing $H_0$ rather than trying to prove $H_1$) | `page 63–64` |
 | Comprehensive P-Value Syntax Reference Guide: Manual vs. built-in function syntax for $Z$-tests and $T$-tests (One-sample, two-sample, proportions, independent, and paired $T$-tests) | `page 65–68` |
 
-- [📄 View PDF on GitHub]()
-- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/)
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_6_normal_ztest_watermark_compressed_compressed.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_6_normal_ztest_watermark_compressed_compressed.pdf)
   
 ### Long-Tailed Distributions:
 | Topics Covered | Page |
@@ -166,8 +166,8 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Why Long-Tailed Data Matters: The danger of assuming normality (undercasting risk, faulty predictions), better approaches (Extreme Value Theory, robust statistics), and handling long-tailed data | `page 4` |
 | Python Code & Walkthrough: Pizza Delivery Times Example (Simulating normal deliveries and exponential long-tail extremes, combining datasets with `np.concatenate()`, and plotting a QQ-plot) | `page 5–6` |
 
-- [📄 View PDF on GitHub]()
-- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/)
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_7_longtail_distributions_watermark.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_7_longtail_distributions_watermark.pdf)
 
 ### Student $t$-Distributions & t- Test:
 | Topics Covered | Page |
@@ -189,8 +189,8 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Manual Python Implementation of Independent Two-Sample $t$-Test: Code structure, calculations, and output | `page 23` |
 | Paired Sample $t$-Test: Concept, use cases, hypotheses ($H_0: \mu_d = 0$), formulas, manual vs. built-in Python implementation (`stats.ttest_rel`), output, and comprehensive summary table of p-value codes | `page 24–25` |
 
-- [📄 View PDF on GitHub]()
-- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/)
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_8_student_t_distributions_and_t_test_watermark.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_8_student_t_distributions_and_t_test_watermark.pdf)
 
 ### Binomial Distribution :
 | Topics Covered | Page |
@@ -207,8 +207,8 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Approximating Binomial CDF & PMF vs. CDF Comparison: Poisson and Normal CDF approximation formulas with continuity correction, why approximations are used, and PMF vs. CDF comparison table | `page 10` |
 | Python Code: Comprehensive implementation of binomial distribution approximation using Poisson and Normal distributions (`binom`, `poisson`, `norm`) with continuity correction | `page 10–11` |
 
-- [📄 View PDF on GitHub]()
-- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/)
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_9_binomial_distributions_watermark.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_9_binomial_distributions_watermark.pdf)
 
 ### Poisson Distribution: 
 | Topics Covered | Page |
@@ -225,8 +225,8 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Normal Approximation to Poisson PMF and CDF: Comparing the $Z$-score method without continuity correction versus the Continuity Correction Method, with Python code and comparison table | `page 10–12` |
 | Poisson Percentile Point Function (PPF) Detailed Breakdown: Mathematical definition, server request example ($\lambda = 5, p = 0.95$), manual CDF iteration up to $k = 9$, and Python implementation (`poisson.ppf`) | `page 12–13` |
 
-- [📄 View PDF on GitHub]()
-- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/)
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_10_poissondistributions_and_related_distributions.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_10_poissondistributions_and_related_distributions.pdf)
 
 ### Negative Binomial GLMs & Overdispersion:
 | Topics Covered | Page |
@@ -242,8 +242,8 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Pearson Residuals: Definition, formula, comparison with model-based variance for Poisson vs. NB models, and interpreting standardized residuals for outlier detection | `page 10` |
 | Zero-Inflated Negative Binomial (ZINB) Models: Introduction to excess zeros, dual-process model (logistic for excess zeros + NB count process), e-commerce traffic example, logit formula, coefficient interpretation, and calculating probability of excess zeros ($p_i$) | `page 11–12` |
 
-- [📄 View PDF on GitHub]()
-- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/)
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_negative_binomial.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_negative_binomial.pdf)
   
 
 ### Exponential Distribution :
@@ -270,8 +270,8 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Kolmogorov-Smirnov (KS) Test: Definition, hypothesis testing, empirical CDF (ECDF), KS test statistic ($D_n$), and step-by-step customer lifetime manual example | `page 19` |
 | KS Critical Values & Python Implementation: Determining $D_{critical}$, significance levels table, and Python code for manual & built-in KS tests (`kstest`) | `page 20` |
 
-- [📄 View PDF on GitHub]()
-- [⬇️ Download PDF]()
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_11_exponential_distribution_watermarks.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_11_exponential_distribution_watermarks.pdf)
   
 ### Weibull Distribution:
 | Topics Covered | Page |
@@ -288,8 +288,8 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Python Implementation (Survival & Median Time): Manual and built-in SciPy functions for Weibull survival functions and median survival time | `page 17` |
 | Python Implementation (Mean & Variance): Calculating Weibull mean and variance using manual Gamma functions vs. built-in SciPy methods | `page 18` |
 
-- [📄 View PDF on GitHub]()
-- [⬇️ Download PDF]()
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/stat_12_weibull_distributions_watermark.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Statistics-and-Hypothesis/raw/refs/heads/main/stat_12_weibull_distributions_watermark.pdf)
   
 
 ---
